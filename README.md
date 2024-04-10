@@ -8,13 +8,13 @@
  ● President High Honor List
  ### Work Experience
  Google Software Engineer Intern Geo Sustainability- May 2023- August 2023
- ● Implemented a parallel data-processing pipeline in C++ with Google’s version of MapReduce to generate a map
+ - Implemented a parallel data-processing pipeline in C++ with Google’s version of MapReduce to generate a map
  visualization of rooftop solar potential over all the buildings in given geographical area
- ● Reducedthe data storage by nearly 100% by implementing Google’s internal tool into the map visualization pipeline
- ● Collaborated with the engineering team to design and implement a new software feature
- ● Contributed over 800 lines of C++ into Google's production codebase, with thorough unit testing and adherence to
- coding standards
- ● Helpedreview documentation developed by other engineers to ensure best guidelines
+ - Reducedthe data storage by nearly 100% by implementing Google’s internal tool into the map visualization pipeline
+ - Collaborated with the engineering team to design and implement a new software feature
+ - Contributed over 800 lines of C++ into Google's production codebase, with thorough unit testing and adherence to
+   coding standards
+ - Helpedreview documentation developed by other engineers to ensure best guidelines
  ### Projects
  Verilog Project: ALU Implementation on Verasic Board
  ● Integrated and tested ALU for arithmetic and logic operations

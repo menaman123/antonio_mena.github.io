@@ -55,6 +55,7 @@
  - Conceptualized a rover mission to be sent to Mars and prepared a preliminary design review (PDR)
  - Servedas student administrator to assist in budget, safety protocols, and project management of a group of 11 people
  - Servedas student engineer designing Risk Mitigation and FEAMA charts
+![LSpace Certification](/assets/img/LSPACE Certification.pdf)
 
  ## NASA Micro-G NeXT– 2019– 2020
  - Creating CAD designs of drill bit

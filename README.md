@@ -2,10 +2,10 @@
  
  ### Education
  Rutgers University School of Engineering– September 2021– Present
- ● Current student enrolled in Electrical and Computer Engineering
+ - Current student enrolled in Electrical and Computer Engineering
  Union County College- September 2019- May 2021
- ● Graduate with an Associates Degree in Engineering
- ● President High Honor List
+ - Graduate with an Associates Degree in Engineering
+ - President High Honor List
  ### Work Experience
  Google Software Engineer Intern Geo Sustainability- May 2023- August 2023
  - Implemented a parallel data-processing pipeline in C++ with Google’s version of MapReduce to generate a map

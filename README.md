@@ -41,6 +41,7 @@
  - Integrated Google OAuth API for seamless login functionality using Google accounts
  - Leveraged Amadeus API for streamlined search and booking of flights, hotels, and activities
  - Utilized Google Maps API for intuitive location display
+   [ouiTravel](https://ouitravel.onrender.com)
 
  ## Governor Stem Scholar Project Team Lead- September 2021– May 2022
  - Proposed a hypothesis testing the correlation of the dimming of albedo with the frequency of hurricanes in the Atlantic

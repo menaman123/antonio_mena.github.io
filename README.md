@@ -63,3 +63,4 @@
  - Assembled and machined steel parts
  - Invited to NASA’s Neutral Buoyancy Lab for prototyping analysis
  - Oneoftwoteams selected for their design to be built and used on the 2024 Artemis mission
+  [NASA’s Neutral Buoyancy Lab Test](https://www.youtube.com/watch?v=eSFtM1JeL20&ab_channel=MicrogravityUniversity)

@@ -24,22 +24,26 @@
  - Designed data memory unit for load and store operations
  - Implemented I-instruction format for instruction execution flow
  - Verified functionality and performance through simulation and testing
+
  Enhanced Gravity Simulator: Leveraging AVX and CUDA Parallelism
  - Optimized vectorization capabilities with AVX2 for enhanced computational throughput
  - Utilized CUDA to accelerate gravitational simulations, improving speed and accuracy
  - Conducted rigorous testing with varied celestial bodies to validate accuracy and robustness
  - Maintained precision in calculations while ensuring computational efficiency following Google’s C++ style guide
+
  Governor Stem Scholar Project Team Lead- September 2021– May 2022
  - Proposed a hypothesis testing the correlation of the dimming of albedo with the frequency of hurricanes in the Atlantic
  region
  - Manageda12person team with milestones and research paper detailing the findings
  - Developed a PYTHONscript analyzing NOAA GOES data to find correlations between albedo and hurricane by using
    superposed epoch analysis technique
+
  NASA L’Space Mission Concept Academy Administrator & Engineer- May 2020- July 2020
  - Participated in a rigorous, 12-week virtual professional development program
  - Conceptualized a rover mission to be sent to Mars and prepared a preliminary design review (PDR)
  - Servedas student administrator to assist in budget, safety protocols, and project management of a group of 11 people
  - Servedas student engineer designing Risk Mitigation and FEAMA charts
+
  NASA Micro-G NeXT– 2019– 2020
  - Creating CAD designs of drill bit
  - Prototyped a self-contained drill bit used to capture a core sample

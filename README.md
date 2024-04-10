@@ -31,6 +31,16 @@
  - Conducted rigorous testing with varied celestial bodies to validate accuracy and robustness
  - Maintained precision in calculations while ensuring computational efficiency following Google’s C++ style guide
 
+ouiTravel
+ - Utilized MongoDB as the database to efficiently store user-generated content, including posts and comments
+ - Conducted rigorous API testing using Postman to ensure reliability and optimal performance of API calls
+ - EmployedReact to create an intuitive and visually appealing user interface for trip visualization and post interaction
+ - Developed features including trip management, flight/hotel/activity bookings, cost tracking, friend system, and
+   collaborative trip planning
+ - Integrated Google OAuth API for seamless login functionality using Google accounts
+ - Leveraged Amadeus API for streamlined search and booking of flights, hotels, and activities
+ - Utilized Google Maps API for intuitive location display
+
  Governor Stem Scholar Project Team Lead- September 2021– May 2022
  - Proposed a hypothesis testing the correlation of the dimming of albedo with the frequency of hurricanes in the Atlantic
  region

@@ -3,6 +3,7 @@
  ### Education
  Rutgers University School of Engineering– September 2021– Present
  - Current student enrolled in Electrical and Computer Engineering
+
  Union County College- September 2019- May 2021
  - Graduate with an Associates Degree in Engineering
  - President High Honor List

@@ -8,7 +8,7 @@
  - Graduate with an Associates Degree in Engineering
  - President High Honor List
 ### Work Experience
- Google Software Engineer Intern Geo Sustainability- May 2023- August 2023
+## Google Software Engineer Intern Geo Sustainability- May 2023- August 2023
  - Implemented a parallel data-processing pipeline in C++ with Google’s version of MapReduce to generate a map
  visualization of rooftop solar potential over all the buildings in given geographical area
  - Reducedthe data storage by nearly 100% by implementing Google’s internal tool into the map visualization pipeline

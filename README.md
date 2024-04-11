@@ -35,7 +35,7 @@
 ### ouiTravel
  - Utilized MongoDB as the database to efficiently store user-generated content, including posts and comments
  - Conducted rigorous API testing using Postman to ensure reliability and optimal performance of API calls
- - EmployedReact to create an intuitive and visually appealing user interface for trip visualization and post interaction
+ - Employed React to create an intuitive and visually appealing user interface for trip visualization and post interaction
  - Developed features including trip management, flight/hotel/activity bookings, cost tracking, friend system, and
    collaborative trip planning
  - Integrated Google OAuth API for seamless login functionality using Google accounts
